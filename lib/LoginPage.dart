@@ -25,6 +25,7 @@ class LoginPage extends StatelessWidget {
                   fontWeight: FontWeight.bold,
                 ),
               ),
+
               SizedBox(height: 50),
 
               CustomTextField(
